@@ -18,6 +18,7 @@ If you follow the setup documentation of the plugin with the new version, it als
 
 To make it work, I had to copy some small parts of the official docs into de Cedric's code, so if you are facing the same problem, you may find this useful. 
 
+The solution is missing some private files, like google-services.json and GoogleService-Info.plist.
 ## Know issues
 
 Notifications don't work on iOS simulator, you will need a physical device.
